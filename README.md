@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Quick tutorial on how to classify credit card defaulters
 This notebook provides a quick guide on how to use machine learning techniques to classify credit card customers as delinquent or non-delinquent. Let's explore the credit history dataset and build a classification model capable of predicting whether a customer will be a debtor or not.
 
